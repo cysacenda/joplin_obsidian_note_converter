@@ -10,4 +10,5 @@ Start with: `py convert.py`
 
 
 **After:**
-\![e9634dbf41b1e1d29be78ce21a2d64ac.png|750x278](../_resources/9617d494875aa6a8cf858280250ccbe9.png)
+```
+![e9634dbf41b1e1d29be78ce21a2d64ac.png|750x278](../_resources/9617d494875aa6a8cf858280250ccbe9.png)
